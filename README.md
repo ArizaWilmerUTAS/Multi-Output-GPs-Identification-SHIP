@@ -9,8 +9,12 @@ If you want to cite this work please cite:
 
 
 
+<<<<<<< HEAD
 <center><img src="figure9.png" width ="75%"><img src="figure10.png" width ="75%"><img src="figure11.png" width ="75%"><img src="figure12.png" width ="75%">
 <br>Prediction from Multi_output GPs by algorithm of Naive Simulation with full data compared to mathematical model, a) controlled surge acceleration, b) induced sway speed, c) controlled yaw speed, and d) induced roll speed </center>
+=======
+<center><img src="figure9.png" width ="75%"><img src="figure10.png" width ="75%"><img src="figure11.png" width ="75%"><img src="figure12.png" width ="75%"><br>Prediction from Multi_output GPs by algorithm of Naive Simulation with full data compared to mathematical model, a) controlled surge acceleration, b) induced sway speed, c) controlled yaw speed, and d) induced roll speed </center>
+>>>>>>> 570128bf36dce916ee5e0dfc06d45a2d92b2813a
 
 ## Getting Started
 
@@ -25,8 +29,12 @@ To run the System idetification, please run the file: MultiOutputGPSSI.m
 
 Wilmer Ariza Ramirez
 
+<<<<<<< HEAD
 Australian Maritime College, 
 University of Tasmania, Newnham TAS 7248, Australia
+=======
+Australian Maritime College, University of Tasmania, Newnham TAS 7248, Australia
+>>>>>>> 570128bf36dce916ee5e0dfc06d45a2d92b2813a
 
 Wilmer.ArizaRamirez@utas.edu.au 
 
