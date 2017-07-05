@@ -5,7 +5,7 @@ This code is based in the work of Prof. Mauricio A. Alvarez and Prof. Neil D. La
 A Underactuated Ship model was used to generate data for system indetification. The system is a two input , four output system.
 A NARX architecture was used for the Multioutput Gaussian Processes as for the comparative Neural Networks.
 
-<center><img src="figure9.eps" width ="50%"><img src="Toy_predictionFTC5.png" width ="50%"><br> <i>Left</i> First output in the four outputs of the demo. <i>Right</i> Fourth output for the same example. </center>
+<center><img src="figure9.png" width ="50%"><img src="figure10.png" width ="50%"><img src="figure11.png" width ="50%"><img src="figure12.png" width ="50%"><br> <i>Left</i> First output in the four outputs of the demo. <i>Right</i> Fourth output for the same example. </center>
 
 ## Getting Started
 
