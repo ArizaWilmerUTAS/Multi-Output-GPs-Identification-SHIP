@@ -14,7 +14,7 @@ If you want to cite this work please cite:
 
 ## Getting Started
 
-To run the System idetification, please run the file:
+To run the System idetification, please run the file: MultiOutputGPSSI.m
 
 
 
