@@ -7,6 +7,8 @@ A NARX architecture was used for the Multioutput Gaussian Processes as for the c
 
 If you want to cite this work please cite:
 
+Ariza R., W., Leong, Z.Q., Nguyen, H. and Jayasinghe, S.G., 2018. Non-parametric dynamic system identification of ships using multi-output Gaussian Processes. Ocean Engineering, 166, pp.26-36.
+
 <center><img src="figure9.png" width ="75%"><img src="figure10.png" width ="75%"><img src="figure11.png" width ="75%"><img src="figure12.png" width ="75%">
 <br>Prediction from Multi_output GPs by algorithm of Naive Simulation with full data compared to mathematical model, a) controlled surge acceleration, b) induced sway speed, c) controlled yaw speed, and d) induced roll speed </center>
 
